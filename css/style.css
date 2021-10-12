@@ -2,7 +2,7 @@
 * {
     margin: 0;
     padding: 0;
-    background: azure;
+    background: #393E46;
     font-family: 'Baloo Bhai 2', cursive;
     color: chocolate;
     border-radius: 10px;
@@ -14,7 +14,7 @@
     /* max-width: fit-content; */
     text-align: center;
     margin: 20px;
-    box-shadow: 0px 0px 21px 5px #00000073;
+    box-shadow: 0px 0px 8px 2px white;
 }
 
 img {
@@ -23,7 +23,7 @@ img {
 
 a {
     text-decoration: none;
-    color: black;
+    color: white;
 }
 
 .container {
@@ -42,7 +42,7 @@ input {
 }
 
 .top {
-    box-shadow: 0px 0px 12px 2px #0000001c;
+    box-shadow: 0px 0px 9px 1px white;
     border-radius: 10px;
     height: 124px;
     width: 259px;
